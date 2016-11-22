@@ -1,0 +1,46 @@
+body{
+	background-image:url("back_img.jpg");
+}
+#canvas{
+border-style:solid;
+border-width:5px;
+border-radius:35px;
+box-shadow: 10px 10px 5px #888888;
+position: absolute;
+ 
+ top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+	margin: auto;
+}
+button {
+position: absolute;
+ 
+ top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+margin: auto;
+	box-shadow: 13px 13px 10px 0px #fce2c1;
+	background-color:#ffc477;
+	border-radius:37px;
+	text-indent:0px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:29px;
+	font-weight:bold;
+	font-style:normal;
+	height:100px;
+	line-height:100px;
+	width:200px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:4px 4px 0px #cc9f52;
+}
+button:hover {
+	background-color:#fb9e25;
+}
